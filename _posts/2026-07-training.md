@@ -1,6 +1,6 @@
 ---
-title: 2026년 7월 훈련사진
-date: 2026-07
+title: 2026년 6월 훈련사진
+date: 2026-06-30
 categories: [훈련일지]
 tags: [송정동초, 야구부, 훈련일지]
 image: /assets/img/training/06/60.JPG
