@@ -1,7 +1,7 @@
 ---
-title: 경기기록
-icon: fas fa-baseball-ball
-order: 1
+title: 사진기록
+icon: fas fa-camera
+order: 2
 layout: category
-category: 경기기록
+category: 사진기록
 ---

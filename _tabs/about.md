@@ -1,7 +1,7 @@
 ---
 title: 소개
 icon: fas fa-baseball-ball
-order: 1
+order: 5
 ---
 
 # ⚾ 송정동초등학교 야구부 40기 기록
