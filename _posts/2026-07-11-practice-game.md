@@ -27,13 +27,13 @@ image: /assets/img/game/20260711/start.JPG
 ![하이라이트 4](/assets/img/game/20260711/3.mp4)
 ![하이라이트 5](/assets/img/game/20260711/14.mp4)
 ![하이라이트 6](/assets/img/game/20260711/18.mp4)
-![하이라이트 7](/assets/img/game/20260701/31.mp4)
-![하이라이트 8](/assets/img/game/20260701/32.mp4)
-![하이라이트 9](/assets/img/game/20260701/34.mp4)
-![하이라이트 10](/assets/img/game/20260701/60.JPG)
-![하이라이트 11](/assets/img/game/20260701/98.mp4)
-![하이라이트 12](/assets/img/game/20260701/99.mp4)
-![하이라이트 13](/assets/img/game/20260701/end.JPG)
+![하이라이트 7](/assets/img/game/20260711/31.mp4)
+![하이라이트 8](/assets/img/game/20260711/32.mp4)
+![하이라이트 9](/assets/img/game/20260711/34.mp4)
+![하이라이트 10](/assets/img/game/20260711/60.JPG)
+![하이라이트 11](/assets/img/game/20260711/98.mp4)
+![하이라이트 12](/assets/img/game/20260711/99.mp4)
+![하이라이트 13](/assets/img/game/20260711/end.JPG)
 
 ## 전체 사진
 
