@@ -22,17 +22,49 @@ image: /assets/img/game/20260711/start.JPG
 ## 📸 하이라이트
 
 ![하이라이트 1](/assets/img/game/20260711/0.JPG)
-![하이라이트 2](/assets/img/game/20260711/1.mp4)
-![하이라이트 3](/assets/img/game/20260711/2.mp4)
-![하이라이트 4](/assets/img/game/20260711/3.mp4)
-![하이라이트 5](/assets/img/game/20260711/14.mp4)
-![하이라이트 6](/assets/img/game/20260711/18.mp4)
-![하이라이트 7](/assets/img/game/20260711/31.mp4)
-![하이라이트 8](/assets/img/game/20260711/32.mp4)
-![하이라이트 9](/assets/img/game/20260711/34.mp4)
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/1.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/2.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/3.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/14.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/18.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/31.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/32.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/34.mp4" type="video/mp4">
+</video>
+
 ![하이라이트 10](/assets/img/game/20260711/60.JPG)
-![하이라이트 11](/assets/img/game/20260711/98.mp4)
-![하이라이트 12](/assets/img/game/20260711/99.mp4)
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/98.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline style="max-width:100%; margin:8px 0;">
+  <source src="/assets/img/game/20260711/99.mp4" type="video/mp4">
+</video>
+
 ![하이라이트 13](/assets/img/game/20260711/end.JPG)
 
 ## 전체 사진
