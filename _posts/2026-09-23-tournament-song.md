@@ -7,10 +7,6 @@ tags: [송정동초, 야구부40기, 응원가]
 image: https://keia.scrs.kr/assets/img/tournament/20260923/1.png
 ---
 
-## 대표 사진
-
-![대표 사진](https://keia.scrs.kr/assets/img/tournament/20260923/1.png)
-
 ## 📸 40기 응원가
 
 ### 김유현

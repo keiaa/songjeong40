@@ -1,0 +1,63 @@
+이미지 사이즈 변환 후 업로드
+
+mkdir compressed
+
+for f in *.JPG *jpeg; do
+    magick "$f" \
+        -resize 1920x\> \
+        -strip \
+        -quality 80 \
+        "compressed/$f"
+done
+
+------------------------
+mkdir -p compressed
+
+for f in *.JPG; do
+    magick "$f" \
+        -auto-orient \
+        -resize '1920x>' \
+        -strip \
+        -quality 80 \
+        "compressed/$f"
+done
+------------------------
+
+
+#!/bin/bash
+
+# 입력 폴더
+INPUT_DIR="."
+
+# 출력 폴더
+OUTPUT_DIR="./output"
+
+mkdir -p "$OUTPUT_DIR"
+
+for file in "$INPUT_DIR"/*.mp4
+do
+    [ -f "$file" ] || continue
+
+    filename=$(basename "$file")
+    filename="${filename%.*}"
+
+    echo "Converting : $filename"
+
+    ffmpeg -i "$file" \
+        -c:v libx264 \
+        -crf 23 \
+        -preset slow \
+        -vf "scale='min(1920,iw)':-2" \
+        -pix_fmt yuv420p \
+        -movflags +faststart \
+        -c:a aac \
+        -b:a 128k \
+        "$OUTPUT_DIR/${filename}.mp4"
+
+done
+
+echo "==============================="
+echo "Complete."
+
+git add .
+git commit -m "19일 연습경기 및 20일 훈련사진"
