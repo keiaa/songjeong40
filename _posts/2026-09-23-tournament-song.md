@@ -2,7 +2,7 @@
 title: 5, 4학년 응원가
 date: 2026-09-23 10:00:00 +0900
 categories: [대회기록]
-permalink: /gametournament/2026-09-23-tournament-song/
+permalink: /tournament/2026-09-23-tournament-song/
 tags: [송정동초, 야구부40기, 응원가]
 image: /assets/img/tournament/20260923/1.png
 ---
