@@ -4,7 +4,7 @@ date: 2026-10-16 12:00:00 +0900
 categories: [대회기록]
 permalink: /tournament/2026-10-16-tournament/
 tags: [송정동초, 야구부40기, 응원가]
-image: https://keia.scrs.kr/assets/img/tournament/20261016/0.JPG)
+image: https://keia.scrs.kr/assets/img/tournament/20261016/0.JPG
 ---
 
 ## 경기 정보
