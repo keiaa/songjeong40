@@ -16,6 +16,8 @@ image: https://keia.scrs.kr/assets/img/tournament/20261017/start.JPG
 
 ## 📸 하이라이트
 
+### 몸풀기
+
 ![하이라이트 1](https://keia.scrs.kr/assets/img/tournament/20261017/1.JPG)
 ![하이라이트 2](https://keia.scrs.kr/assets/img/tournament/20261017/2.JPG)
 ![하이라이트 3](https://keia.scrs.kr/assets/img/tournament/20261017/3.JPG)
@@ -133,6 +135,9 @@ image: https://keia.scrs.kr/assets/img/tournament/20261017/start.JPG
 ![하이라이트 115](https://keia.scrs.kr/assets/img/tournament/20261017/115.JPG)
 ![하이라이트 116](https://keia.scrs.kr/assets/img/tournament/20261017/116.JPG)
 ![하이라이트 117](https://keia.scrs.kr/assets/img/tournament/20261017/117.JPG)
+
+### 경기 및 응원
+
 ![하이라이트 118](https://keia.scrs.kr/assets/img/tournament/20261017/118.JPG)
 ![하이라이트 119](https://keia.scrs.kr/assets/img/tournament/20261017/119.JPG)
 ![하이라이트 120](https://keia.scrs.kr/assets/img/tournament/20261017/120.JPG)
@@ -325,6 +330,9 @@ image: https://keia.scrs.kr/assets/img/tournament/20261017/start.JPG
 ![하이라이트 307](https://keia.scrs.kr/assets/img/tournament/20261017/307.JPG)
 ![하이라이트 308](https://keia.scrs.kr/assets/img/tournament/20261017/308.JPG)
 ![하이라이트 309](https://keia.scrs.kr/assets/img/tournament/20261017/309.JPG)
+
+### 시상식
+
 ![하이라이트 310](https://keia.scrs.kr/assets/img/tournament/20261017/310.JPG)
 ![하이라이트 311](https://keia.scrs.kr/assets/img/tournament/20261017/311.JPG)
 ![하이라이트 312](https://keia.scrs.kr/assets/img/tournament/20261017/312.JPG)
