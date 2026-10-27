@@ -1,5 +1,5 @@
 ---
-title: 제24회 박찬호기 전국초등학교야구대회
+title: 제24회 박찬호기 전국초등학교야구대회(vs상인천초)
 date: 2026-10-27 11:00:00 +0900
 categories: [대회기록]
 permalink: /tournament/2026-10-27-tournament/
